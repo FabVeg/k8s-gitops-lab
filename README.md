@@ -192,6 +192,32 @@ Un dashboard Kubernetes permet notamment de suivre :
 * le réseau ;
 * les workloads Kubernetes.
 
+## Captures d'écran
+
+### Environnement Kubernetes
+
+[![Environnement Kubernetes](images/01-environment.png)](images/01-environment.png)
+
+### Déploiement Kubernetes
+
+[![Déploiement Kubernetes](images/02-kubernetes.png)](images/02-kubernetes.png)
+
+### Application Nginx
+
+[![Application Nginx](images/03-application.png)](images/03-application.png)
+
+### Incident et diagnostic
+
+[![Diagnostic de l'incident](images/04-investigation.png)](images/04-investigation.png)
+
+### Retour au fonctionnement normal
+
+[![Récupération après incident](images/05-recovery.png)](images/05-recovery.png)
+
+### Observabilité avec Grafana
+
+[![Dashboard Grafana](images/10-grafana.png)](images/10-grafana.png)
+
 ## Automatisation
 
 Le script :
