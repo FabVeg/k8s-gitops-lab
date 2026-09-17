@@ -275,14 +275,14 @@ k8s-gitops-lab/
 |Helm            | Installation de la stack de monitoring       |
 |Troubleshooting | Analyse des Events Kubernetes                |
 
-##Historique Git
+## Historique Git
 
 Les premières étapes du projet sont versionnées dans Git :
 
 41562a7 docs: add runbook and cluster status script
 7fe0442 feat: deploy nginx on kubernetes
 
-##Évolutions possibles
+## Évolutions possibles
 
 * Ajouter Argo CD pour mettre en place un workflow GitOps complet.
 * Ajouter des règles d'alerte Prometheus.
