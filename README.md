@@ -289,5 +289,5 @@ Les premières étapes du projet sont versionnées dans Git :
 * Ajouter des tests automatisés.
 * Ajouter une pipeline CI.
 * Ajouter des manifests pour plusieurs environnements.
-Ajouter de l'Infrastructure as Code avec Terraform.
-Ajouter une stratégie de déploiement et de rollback plus complète.
+* Ajouter de l'Infrastructure as Code avec Terraform.
+* Ajouter une stratégie de déploiement et de rollback plus complète.
